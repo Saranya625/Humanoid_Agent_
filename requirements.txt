@@ -1,0 +1,25 @@
+numpy
+gymnasium
+pybullet
+pybullet_data
+opencv-python
+Pillow
+matplotlib
+tqdm
+argparse
+
+# -------------------------------------------------------------
+# OPENPOSE IS NOT INSTALLABLE VIA PIP.
+# Install manually from:
+  https://github.com/CMU-Perceptual-Computing-Lab/openpose
+# And set:
+   export PYTHONPATH=/path/to/openpose/build/python:$PYTHONPATH
+# For linux :
+git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
+cd openpose
+git submodule update --init --recursive
+mkdir build && cd build
+cmake ..
+make -j8
+
+# -------------------------------------------------------------
