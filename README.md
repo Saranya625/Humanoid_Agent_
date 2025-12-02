@@ -13,7 +13,7 @@ Includes utilities for reading images, extracting pose/keypoints, saving output 
 
 | Input Image | Processed Output |
 |-------------|------------------|
-| ![Input](Test_images/test.jpg) | ![Output](final_outputs_2/output_test.jpg) |
+| ![Input](test3.jpg) | ![Output](test3_output.jpg) |
 
 ### 🎞️ Animation / GIF (Pose Overlay, Pipeline, Motion)
 
