@@ -19,7 +19,7 @@ Includes utilities for reading images, extracting pose/keypoints, saving output 
 
 ![Demo Pose](images/demo_pose.gif)
 
-*(Replace paths with actual files after uploading.)*
+
 
 ---
 
