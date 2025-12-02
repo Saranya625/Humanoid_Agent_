@@ -7,7 +7,7 @@ Includes utilities for reading images, extracting pose/keypoints, saving output 
 
 ## 🎥 Demo & Output Samples
 
-> Add your output images & GIFs here once uploaded.
+
 
 ###  Example Input vs Output 
 
