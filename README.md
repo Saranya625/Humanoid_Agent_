@@ -18,7 +18,7 @@ Includes utilities for reading images, extracting pose/keypoints, saving output 
  
 ### 🎞️ Animation / GIF (Pose Overlay, Pipeline, Motion)
 
-![Demo Pose](images/demo_pose.gif)
+![Demo Pose](output_isl.gif)
 
 
 
